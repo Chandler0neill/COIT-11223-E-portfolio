@@ -41,5 +41,12 @@ This artefact explored the history of Artificial intelligence from the 1950s to 
 # Justification on why I chose this artefact
 I chose his artefact as it was very fascinating to learn the history of artificial intelligence. Most people are under the impression it is a brand-new thing coming to take over the world when in reality it's been around for a long time. Furthermore, it discussed a wide variety of topics related to AI such as machine learning and robotics. I believe this workshop is a suitable choice for my artefact because it allowed me to explore both the benefits and risks of AI and consider the importance of using technology ethically and responsibly.
 
+# References
+Chow, AR & Perrigo, B 2025, ‘Google’s new AI tool generates convincing deepfakes of riots, conflict, and election fraud’, TIME, 3 June, viewed 26 November 2026, https://time.com/7290050/veo-3-google-misinformation-deepfake/
+
+Evershed, N, Bogle, A, Hohnen, M & Nicholas, J 2026, ‘“Scary”: how misinformation and AI hallucinations are infiltrating Australia’s parliament’, The Guardian, 31 August, viewed 26 November 2026, https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament
+
+CSIRO 2024, AI Explained: It's maths, not magic (a simple guide) [YouTube video], 10 May, viewed 26 November 2026, https://www.youtube.com/watch?v=5mHxO2JpCR0
+
 
 
