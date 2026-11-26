@@ -2,7 +2,8 @@
 A Repository containing 4 E-portfolios.  
 
 # Artefact 1 What is AI? and how it actually works
-<img width="1594" height="892" alt="image" src="https://github.com/user-attachments/assets/3d6385b2-dbdf-4bf1-8f5d-7b3f72019b62" />
+<img width="519" height="294" alt="image" src="https://github.com/user-attachments/assets/4a81a2e0-866c-43a2-8d03-6f1ff97aff9e" />
+
 
 # Summary of the Artefact
 The video, created by CSIRO, provides an overview of artificial intelligence and how it is used in everyday technologies. It explains how AI processes large amounts of data, identifies patterns and uses this information to perform tasks such as image recognition, making recommendations and generating responses. It also highlights how AI is developed through computer science, mathematics and machine learning to complete tasks that would traditionally require human intelligence.
