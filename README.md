@@ -31,9 +31,13 @@ The article chosen for artefact 3 discusses Artificial intelligence being used t
 I chose this Artefact because I personally witness family and friends who are unfamiliar with Artificial technology watch these fake videos and believe that they are real. I can see this being an issue in present times as it creates outrage on social media and can potentially be used negativly by anybody who simply has access to computer.his connects to ICT ethics because developers and technology companies have a responsibility to consider the potential misuse of their products. I believe this artefact is meaningful because it demonstrates the importance of transparency, accountability and digital literacy in an increasingly AI-driven society.
 
 # Artefact 4 Workshop recording week 2
+<img width="1605" height="932" alt="image" src="https://github.com/user-attachments/assets/e91774da-190c-4130-a3b3-1ac8623f8083" />
 
 # Summary of the artefact
 This artefact explored the history of Artificial intelligence from the 1950s to modern generative AI models. It discusses the ethical challenges that AI faces, these include privacy issues, accuracy and accountability. The workshop went on to discuss AI governance in Australia as well as Australian National AI Plan and the use of AI impact assessments by government agencies. In summary the workshop acknowldges the benefits that Artificial intelligence has while reinforcing the fact that ICT professionals must consider its potential consequences and ensure it is developed and used ethically and responsibly. 
 
 # Justification on why I chose this artefact
+I chose his artefact as it was very fascinating to learn the history of artificial intelligence. Most people are under the impression it is a brand-new thing coming to take over the world when in reality it's been around for a long time. Furthermore, it discussed a wide variety of topics related to AI such as machine learning and robotics. I believe this workshop is a suitable choice for my artefact because it allowed me to explore both the benefits and risks of AI and consider the importance of using technology ethically and responsibly.
+
+
 
